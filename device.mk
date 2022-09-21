@@ -56,7 +56,6 @@ PRODUCT_PACKAGES += \
     fstab.qcom
 
 # Kernel
-KERNEL_VARIABLES := ASUS_BUILD_PROJECT=AI2202
 KERNEL_VARIANT := gki
 
 # Namespaces
